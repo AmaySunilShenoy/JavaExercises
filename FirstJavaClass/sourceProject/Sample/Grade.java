@@ -14,7 +14,7 @@ public class Grade {
 
 		subject = sc.nextLine();
 
-		System.out.println("Enter the grade:");
+		System.out.print("Enter the grade:");
 
 		grade = sc.nextLine().toUpperCase();
 
